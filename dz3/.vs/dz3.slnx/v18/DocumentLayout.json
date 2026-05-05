@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yarasoftes\\Desktop\\C_sharp\\C_sharp\\dz3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6375E54-CC35-4FDD-BB4A-B56F2C71DFAA}|dz3\\dz3.csproj|c:\\users\\yarasoftes\\desktop\\c_sharp\\c_sharp\\dz3\\dz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6375E54-CC35-4FDD-BB4A-B56F2C71DFAA}|dz3\\dz3.csproj|solutionrelative:dz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yarasoftes\\Desktop\\C_sharp\\C_sharp\\dz3\\dz3\\Program.cs",
+              "RelativeDocumentMoniker": "dz3\\Program.cs",
+              "ToolTip": "C:\\Users\\yarasoftes\\Desktop\\C_sharp\\C_sharp\\dz3\\dz3\\Program.cs",
+              "RelativeToolTip": "dz3\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:33:31.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

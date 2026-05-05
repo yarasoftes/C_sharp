@@ -1,0 +1,14 @@
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\bin\Debug\net10.0\z.exe
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\bin\Debug\net10.0\z.deps.json
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\bin\Debug\net10.0\z.runtimeconfig.json
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\bin\Debug\net10.0\z.dll
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\bin\Debug\net10.0\z.pdb
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.AssemblyInfoInputs.cache
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.AssemblyInfo.cs
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.csproj.CoreCompileInputs.cache
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.dll
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\refint\z.dll
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.pdb
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\z.genruntimeconfig.cache
+C:\Users\yarasoftes\Desktop\C_sharp\z\z\obj\Debug\net10.0\ref\z.dll
