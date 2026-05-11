@@ -1,0 +1,15 @@
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\bin\Debug\net10.0\dz4.exe
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\bin\Debug\net10.0\dz4.deps.json
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\bin\Debug\net10.0\dz4.runtimeconfig.json
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\bin\Debug\net10.0\dz4.dll
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\bin\Debug\net10.0\dz4.pdb
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.AssemblyInfoInputs.cache
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.AssemblyInfo.cs
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.csproj.CoreCompileInputs.cache
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.sourcelink.json
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.dll
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\refint\dz4.dll
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.pdb
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\dz4.genruntimeconfig.cache
+C:\Users\yarasoftes\Desktop\C_sharp\C_sharp\dz4\dz4\obj\Debug\net10.0\ref\dz4.dll
